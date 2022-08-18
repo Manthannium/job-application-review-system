@@ -11,8 +11,6 @@ Open new terminal in app folder
 ```
 Go to "localhost:8000/api/persons"
 
-<br>
-<br>
 Open new terminal in app folder
 ```
 > cd frontend
