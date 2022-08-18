@@ -1,5 +1,5 @@
 # Job Application Review System
 
-Backend  : Django
-Frontend : React
+**Backend**  : Django <br>
+**Frontend** : React <br>
 
